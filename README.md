@@ -438,9 +438,7 @@ https://github.com/ananyagoyal488-cloud/Healthcare_dashboard/blob/main/Hospital%
 
 This dashboard focuses on insurance coverage, patient characteristics, treatment costs, billing categories, discharge outcomes, government subsidy, and out-of-pocket expenditure.
 
-```markdown
-![Patient & Financial Analysis Dashboard](Images/patient_financial_analysis.png)
-```
+https://github.com/ananyagoyal488-cloud/Healthcare_dashboard/blob/main/Patient%20and%20Financial%20Analysis.png
 
 ---
 
