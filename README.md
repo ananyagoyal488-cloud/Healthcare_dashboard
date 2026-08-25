@@ -430,9 +430,7 @@ Potential future enhancements include:
 
 This dashboard provides an overview of patient demographics, hospital operations, admission trends, hospital costs, ward utilization, and readmission performance.
 
-```markdown
-![Hospital Overview Dashboard](Images/hospital_overview.png)
-```
+https://github.com/ananyagoyal488-cloud/Healthcare_dashboard/blob/main/Hospital%20Overview.png
 
 ---
 
