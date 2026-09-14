@@ -405,24 +405,6 @@ Focuses on:
 
 This separation makes the dashboard easier to navigate and allows different business questions to be analyzed independently.
 
----
-
-# 🚀 Future Improvements
-
-Potential future enhancements include:
-
-* Connecting the dashboard to a live database
-* Automating data refresh
-* Adding year-over-year comparisons
-* Adding hospital performance benchmarking
-* Adding advanced readmission analysis
-* Adding predictive analysis for admissions
-* Adding treatment cost forecasting
-* Publishing the dashboard through a BI platform
-* Adding drill-down and drill-through analysis
-
----
-
 
 # 🖼️ Dashboard Preview
 
